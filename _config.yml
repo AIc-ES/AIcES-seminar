@@ -37,14 +37,13 @@ featured-image: "/images/AITN.png"
 source-code:  https://github.com/TrungDS10/AIcES-seminar
 
 ##########
-# URL VARIABLES [optional!!]
+# URL VARIABLES
 #
-# Optional if using GitHub Pages! If building manually, these must be set correctly.
-# When using github pages just leave these blank!
+# When using github pages, you need to set these correctly.
 #
 # use url for the domain, e.g. https://evanwill.github.io
 # on gh-pages follow the pattern: https://username.github.io
-url:
+url: "https://TrungDS10.github.io"
 # use baseurl to add subsection of the domain, e.g. /workshop-template-b
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
